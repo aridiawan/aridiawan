@@ -3,6 +3,7 @@ I'm **Ari** (he/him), - Experienced business analyst (in logistics, retail, and 
 
 ## 🏂 Skills
 <img src="https://www.svgrepo.com/show/373590/excel2.svg" alt="exc" width="50"/>&nbsp;
+<img src="https://trifacta-cms-assets.s3.us-west-2.amazonaws.com/3rd-party/logos/GoogleSheets_ConnectorLogo.png" alt="gsheet" width="50"/>&nbsp;
 <img src="https://www.svgrepo.com/show/221326/mysql.svg" alt="sql" width="50"/>&nbsp;
 <img src="https://www.svgrepo.com/show/354011/looker.svg" alt="looker" width="50"/>&nbsp;
 <img src="https://www.svgrepo.com/show/354428/tableau-icon.svg" alt="tableau" width="50"/>&nbsp;
