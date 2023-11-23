@@ -20,3 +20,6 @@ I'm **Ari** (he/him), - Experienced business analyst (in logistics, retail, and 
 - [Ecommerce Customer Segmentation](https://github.com/aridiawan/ecommerce-analysis) - Use clustering to create customer segmentation of Ecommerce | _Tools: Pyhton_
 - [Cars Price Prediction](https://github.com/aridiawan/Used-Cars-Price-Prediction) - Use regression to create used cars price prediction | _Tools: Pyhton_
 - [Data Roles Salary Prediction](https://github.com/fnkhairudin/Data-Scientist-Salary-Prediction) - Use regression to create data roles salary prediction | _Tools: Pyhton_
+
+### Excel/Spreadsheet
+- [Excel Business Case](https://github.com/aridiawan/ms-excel-case-skills) - Use MS excel's feature/formula to create sales report for different cases | _Tools: Microsoft Excel_
